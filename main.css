@@ -1,0 +1,39 @@
+body {
+	background-color: #d0e4fe;
+}
+
+h1 {
+	color: brown;
+	text-align: center;
+}
+
+h2 {
+	color: orange;
+}
+
+a {
+	text-decoration: none;
+	font-size: 20px;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.myLinks {
+	text-align: center;
+}
+
+.links {
+	border-radius: 5px;
+	border: 2px solid black;
+	width: 200px;
+	height: 150px;
+	background-color: white;
+}
+
+#linksHeader {
+	border-bottom: 2px solid black;
+	padding-bottom: 10px;
+	text-align: center;
+}
